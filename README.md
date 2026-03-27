@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Alex Wang! 👋
 
-<!--
-**alexwang2911/alexwang2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I share my learning journey into **AI & Data Science** here. My mission is to make AI education accessible, practical, and most importantly, **90% buzzword-free**. Let's grow together!
 
-Here are some ideas to get you started:
+### 🚀 What I'm Focused On:
+- **Education Strategy:** Developing innovative AI-powered learning initiatives at **GenAI Works**.
+- **Community Building:** Empowering diverse communities through **AI 4 Diversity (AI4D)**.
+- **Open Resources:** Curating productive tools and learning materials for the global AI workforce.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Interests:
+- Machine Learning Algorithms & Data Science
+- Generative AI Education Frameworks
+- Strategic AI Operations
+
+### 🔗 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexwang2911)
+
+---
+*"Learn AI Together – No fluff, just insights."*
